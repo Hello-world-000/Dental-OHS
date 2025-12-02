@@ -1,0 +1,7 @@
+/* Add this in your CSS file or inside a <style> tag in your component */
+.loader {
+  /* Center the loader (optional) */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

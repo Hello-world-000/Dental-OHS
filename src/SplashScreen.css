@@ -1,0 +1,54 @@
+/* src/SplashScreen.css */
+
+/* .splash-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #282c34;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    animation: fadeIn 0.5s;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  } */
+  
+/* src/components/SplashScreen.css */
+.splash-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: white; /* Change background to white */
+}
+
+.splash-screen img {
+  max-width: 20%; /* Make the image responsive */
+  height: auto;    /* Maintain aspect ratio */
+  display: block; 
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.loading-text {
+  margin-top: 20px; /* Space between the image and text */
+  font-size: 1.5rem; /* Adjust font size as needed */
+  color: #333; /* Text color */
+  animation: fadeIn 1.5s ease-in; /* Apply the fade-in animation */
+}
