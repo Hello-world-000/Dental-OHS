@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Dental-OHS/static/css/main.2812d2df.css",
-    "main.js": "/Dental-OHS/static/js/main.15118d96.js",
-    "static/js/239.be728983.chunk.js": "/Dental-OHS/static/js/239.be728983.chunk.js",
-    "static/js/213.af2a7269.chunk.js": "/Dental-OHS/static/js/213.af2a7269.chunk.js",
-    "static/js/455.4f714262.chunk.js": "/Dental-OHS/static/js/455.4f714262.chunk.js",
-    "static/js/453.d7255914.chunk.js": "/Dental-OHS/static/js/453.d7255914.chunk.js",
-    "static/media/x-ray-teeth.jpg": "/Dental-OHS/static/media/x-ray-teeth.65e8ccd142d324a3a9de.jpg",
-    "static/media/dental-clinic_9534762.gif": "/Dental-OHS/static/media/dental-clinic_9534762.596dafbe313839a373bb.gif",
-    "index.html": "/Dental-OHS/index.html",
-    "main.2812d2df.css.map": "/Dental-OHS/static/css/main.2812d2df.css.map",
-    "main.15118d96.js.map": "/Dental-OHS/static/js/main.15118d96.js.map",
-    "239.be728983.chunk.js.map": "/Dental-OHS/static/js/239.be728983.chunk.js.map",
-    "213.af2a7269.chunk.js.map": "/Dental-OHS/static/js/213.af2a7269.chunk.js.map",
-    "455.4f714262.chunk.js.map": "/Dental-OHS/static/js/455.4f714262.chunk.js.map",
-    "453.d7255914.chunk.js.map": "/Dental-OHS/static/js/453.d7255914.chunk.js.map"
+    "main.css": "/static/css/main.2812d2df.css",
+    "main.js": "/static/js/main.2432171c.js",
+    "static/js/239.7f6ed83f.chunk.js": "/static/js/239.7f6ed83f.chunk.js",
+    "static/js/213.08f745d2.chunk.js": "/static/js/213.08f745d2.chunk.js",
+    "static/js/455.b445b304.chunk.js": "/static/js/455.b445b304.chunk.js",
+    "static/js/453.c6c41ea0.chunk.js": "/static/js/453.c6c41ea0.chunk.js",
+    "static/media/x-ray-teeth.jpg": "/static/media/x-ray-teeth.65e8ccd142d324a3a9de.jpg",
+    "static/media/dental-clinic_9534762.gif": "/static/media/dental-clinic_9534762.596dafbe313839a373bb.gif",
+    "index.html": "/index.html",
+    "main.2812d2df.css.map": "/static/css/main.2812d2df.css.map",
+    "main.2432171c.js.map": "/static/js/main.2432171c.js.map",
+    "239.7f6ed83f.chunk.js.map": "/static/js/239.7f6ed83f.chunk.js.map",
+    "213.08f745d2.chunk.js.map": "/static/js/213.08f745d2.chunk.js.map",
+    "455.b445b304.chunk.js.map": "/static/js/455.b445b304.chunk.js.map",
+    "453.c6c41ea0.chunk.js.map": "/static/js/453.c6c41ea0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2812d2df.css",
-    "static/js/main.15118d96.js"
+    "static/js/main.2432171c.js"
   ]
 }
