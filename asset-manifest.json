@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dental-OHS/static/css/main.2812d2df.css",
-    "main.js": "/Dental-OHS/static/js/main.44a3d7f1.js",
+    "main.js": "/Dental-OHS/static/js/main.85d987e8.js",
     "static/js/239.7f6ed83f.chunk.js": "/Dental-OHS/static/js/239.7f6ed83f.chunk.js",
     "static/js/213.08f745d2.chunk.js": "/Dental-OHS/static/js/213.08f745d2.chunk.js",
     "static/js/455.b445b304.chunk.js": "/Dental-OHS/static/js/455.b445b304.chunk.js",
@@ -10,7 +10,7 @@
     "static/media/dental-clinic_9534762.gif": "/Dental-OHS/static/media/dental-clinic_9534762.596dafbe313839a373bb.gif",
     "index.html": "/Dental-OHS/index.html",
     "main.2812d2df.css.map": "/Dental-OHS/static/css/main.2812d2df.css.map",
-    "main.44a3d7f1.js.map": "/Dental-OHS/static/js/main.44a3d7f1.js.map",
+    "main.85d987e8.js.map": "/Dental-OHS/static/js/main.85d987e8.js.map",
     "239.7f6ed83f.chunk.js.map": "/Dental-OHS/static/js/239.7f6ed83f.chunk.js.map",
     "213.08f745d2.chunk.js.map": "/Dental-OHS/static/js/213.08f745d2.chunk.js.map",
     "455.b445b304.chunk.js.map": "/Dental-OHS/static/js/455.b445b304.chunk.js.map",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.2812d2df.css",
-    "static/js/main.44a3d7f1.js"
+    "static/js/main.85d987e8.js"
   ]
 }
